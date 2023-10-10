@@ -1,0 +1,43 @@
+.title {
+    font-size: x-large;
+}
+
+body {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.inputA {
+    border: none;
+    border-bottom: 2px solid red;
+    padding: 1%;
+}
+
+.inputB {
+    border: none;
+    border-bottom: 2px solid rgb(0, 0, 255);
+    padding: 1%;
+}
+
+.button {
+    transition-duration: 0.4s;
+    padding: 1%;
+}
+
+.button:hover {
+    padding: 1%;
+}
+
+img {
+    margin-top: 1%;
+}
+
+/*Título*/
+
+.red:hover {color: red}
+.orange:hover {color: orangered}
+.yellow:hover {color: yellow}
+.green:hover {color: green}
+.lightblue:hover {color: aqua}
+.blue:hover {color: blue}
+.purple:hover {color: purple}
